@@ -9,8 +9,8 @@ import shutil
 # Variables and API keys: 
 
 # Set your API key here
-openai.api_key = 'sk-proj-lNdUARSwqlfOEmWScKuJT3BlbkFJpPA0ljM0bnDDrNmUnrsh'
-PEXELS_API_KEY = 'hDRHxDV8nBC29pk2Q76sG2ucY1awuF5m50gEN6wocSv3F0dP13Cu6pei'
+openai.api_key = ''
+PEXELS_API_KEY = ''
 
 # Amount of videos the API Returns
 NUMBER_OF_VIDEOS = 5
